@@ -10,9 +10,7 @@
 
     <author href="http://somewhatjaded.com" email="dave@somewhatjaded.com">somewhatJaded</author>
 
-    <preference name="phonegap-version" value="2.2.0" />
-    <preference name="orientation"      value="default" />
-    <preference name="target-device"    value="universal" />
+    <preference name="orientation"      value="portrait" />
     <preference name="fullscreen"       value="true" />
 
     <icon src="icon.png" />
